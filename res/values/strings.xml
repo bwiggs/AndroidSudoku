@@ -8,4 +8,11 @@
 	<string name="exit_label">Exit</string>
 	<string name="about_title">About Android Sudoku</string>
 	<string name="about_text">Sudoku is a <i>logic based</i> number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 sub-grids that compose the grid (also called "boxes", "blocks", "regions", or "sub-squares") contains all of the digits from 1 to 9. The puzzle setter provides a partially completed grid, which typically has a unique solution.</string>
+	<string name="settings_label">Settings...</string>
+	<string name="settings_title">Sudoku settings</string>
+	<string name="settings_shortcut">s</string>
+	<string name="music_title">Music</string>
+	<string name="music_summary">Music</string>
+	<string name="hints_title">Hints</string>
+	<string name="hints_summary">Show hints during play</string>
 </resources>
